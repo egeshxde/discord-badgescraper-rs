@@ -29,10 +29,3 @@ cargo run
 ```
 
 Check the `results.txt` file for the scraped user data.
-
-## Note
-
-- Make sure you have the right permissions for the bot in the server you're scraping.
-- Use this responsibly. Don’t violate Discord's Terms of Service.
-
-
