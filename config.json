@@ -1,0 +1,5 @@
+{
+  "token": "YOUR_DISCORD_ACC_TOKEN",
+  "guild_id": "TARGET_GUILD_ID",
+  "channel_id": "A_TEXT_CHANNEL_ID_FROM_THE_GUILD"
+}
